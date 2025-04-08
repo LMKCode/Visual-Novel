@@ -14,6 +14,6 @@ A FUDGE module for the easy development of interactive stories, visual novels an
   ansonsten mit I oder ESC aus dem Inventar heraus und auf Stelle klicken (Tür o.ä.) 
 
 ##  Links
-- [Code]()
-- [Konzept]()
-- [Visual Novel]()
+- [Code](https://github.com/LMKCode/Visual-Novel/blob/main/Ovajeh%20Istomeph/Build/Ovajeh%20Istomeph.js)
+- WIP[Konzept]()
+- WIP[Visual Novel]()
